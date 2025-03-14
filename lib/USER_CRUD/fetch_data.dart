@@ -1,8 +1,8 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
 import 'package:flutter/material.dart';
-import 'package:iot_flutter/create_data.dart';
-import 'package:iot_flutter/delete_date.dart';
+import 'package:iot_flutter/USER_CRUD/create_data.dart';
+import 'package:iot_flutter/USER_CRUD/delete_date.dart';
 import 'package:iot_flutter/update_data,dart';
 
 class DataListingPage extends StatefulWidget {
